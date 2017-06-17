@@ -1,0 +1,12 @@
+{
+  "name": "dantalaya",
+  "version": "1",
+  "description": "desc",
+  "main": "index.js",
+  "repository": "https://github.com/SriramJothiswaran/dantalaya2/",
+  "author": "padink",
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.1.1"
+  }
+}
